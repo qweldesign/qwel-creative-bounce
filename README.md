@@ -1,8 +1,10 @@
-# QWEL CREATIVE TEMPLATE
+# 跳ね返りシミュレーター | Bounce Simulator
 
-[QWEL.DESIGN](https://qwel.design/) の作品集 Creative Crafts のためのテンプレート
+- ごく簡単な物理エンジンを制作
+- 質量、重力、空気抵抗などを定義して、ボールの自然な跳ね返りを定義
+- 2018年頃から、プログラム教室のwebサイト背景に用いていた経緯がある
 
-[https://qwel.design/creative/](https://qwel.design/creative/)
+---
 
 ---
 
